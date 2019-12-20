@@ -1,2 +1,5 @@
 p5 Coding Train tutorial
-Last seen : 1.6
+Last seen 2.1 ; next : https://www.youtube.com/watch?v=Bn_B3T_Vbxs
+
+Setup is called once,
+Draw is called each frame
